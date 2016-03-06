@@ -1,4 +1,11 @@
-Theme 'pixel' v1.0 - 01-6-2016 by Rookervik
+Theme 'pixel' v1.1 - 03-5-2016 by Rookervik
+
+Thanks to muriani for the super-sexy Sega CD logo! 
+Thanks to Omnija for helping me fix some code errors.
+
+
+
+
 
 
 
