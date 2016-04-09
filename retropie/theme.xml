@@ -9,7 +9,7 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>2cd85f</color>
+			<color>636363</color>
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -49,7 +49,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>2cd85f</color>
+			<color>636363</color>
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -67,7 +67,7 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>0c3d1b80</selectorColor>
+			<selectorColor>1c1c1c80</selectorColor>
 			<selectedColor>ffd800</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
@@ -90,7 +90,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>2cd85f</color>
+			<color>636363</color>
 			<path>./../art/background.png</path>
 		</image>
 
@@ -108,7 +108,7 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
-			<selectorColor>0c3d1b</selectorColor>
+			<selectorColor>1c1c1c</selectorColor>
 			<selectedColor>ffd800</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
@@ -116,24 +116,34 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
+		<!---<image name="Bottom Console Image" extra="true">
 			<tile>false</tile>
 			<pos>0.880 0.788</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.25 0.25</maxSize>
 			<path>./console.png</path>
-		</image>
+		</image>--->
 
 		<text name="System_Desc" extra="true">
-			<text>Options Menu</text>
+			<text></text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.200 0.204</size>
-			<pos>0.569 0.677</pos>
+			<pos>1 1</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<alignment>center</alignment>
-		</text>	
+		</text>
+		
+		<text name="md_description">
+			<forceUppercase>0</forceUppercase>
+			<size>0.400 0.204</size>
+			<pos>0.569 0.677</pos>
+			<color>ffffff</color>
+			<fontPath>./../art/font.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<alignment>left</alignment>
+		</text>
 
 
 	</view>

@@ -9,7 +9,7 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>204a00</color>
+			<color>ffffff</color>
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -49,7 +49,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>204a00</color>
+			<color>ffffff</color>
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -67,8 +67,8 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>09150080</selectorColor>
-			<selectedColor>4dc20e</selectedColor>
+			<selectorColor>48484880</selectorColor>
+			<selectedColor>f2873f</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>1</forceUppercase>
@@ -90,7 +90,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>204a00</color>
+			<color>ffffff</color>
 			<path>./../art/background.png</path>
 		</image>
 
@@ -108,13 +108,13 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
-			<selectorColor>091500</selectorColor>
-			<selectedColor>4dc20e</selectedColor>
+			<selectorColor>484848</selectorColor>
+			<selectedColor>f2873f</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>0</forceUppercase>
 		</textlist>
-		
+
 		<text name="md_description">
 			<color>ffffff</color>
 			<pos>0.569 0.677</pos>
