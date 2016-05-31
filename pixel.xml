@@ -1,6 +1,6 @@
 <!--
 theme name:		Pixel
-version:		1.0
+version:		1.7
 author:			Eric Hettervik
 license:		creative commons CC-BY-NC-SA
 -->
@@ -105,6 +105,7 @@ license:		creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
 			<forceUppercase>0</forceUppercase>
+			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
 		</textlist>
 		
 		<text name="System_Desc" extra="true">

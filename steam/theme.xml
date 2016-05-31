@@ -9,7 +9,7 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>ffffff</color>
+			<color>70889d</color>
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -49,7 +49,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>ffffff</color>
+			<color>70889d</color>
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -67,8 +67,8 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>48484880</selectorColor>
-			<selectedColor>51cbcc</selectedColor>
+			<selectorColor>20262c80</selectorColor>
+			<selectedColor>858585</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>1</forceUppercase>
@@ -90,7 +90,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>ffffff</color>
+			<color>70889d</color>
 			<path>./../art/background.png</path>
 		</image>
 
@@ -108,8 +108,8 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
-			<selectorColor>484848</selectorColor>
-			<selectedColor>51cbcc</selectedColor>
+			<selectorColor>20262c</selectorColor>
+			<selectedColor>858585</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>0</forceUppercase>
@@ -125,7 +125,7 @@
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>Nintendo Wii. 2006. 24-bit color at 480p.</text>
+			<text></text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.200 0.204</size>
 			<pos>0.569 0.677</pos>

@@ -1,11 +1,12 @@
-Theme 'pixel' v1.2 - 04-3-2016 by Rookervik
+Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
 
 
 Updates:
-- April 3rd, 2016: Added support for Pipplware
+- May 29th, 2016: Added AGS, Steam, and Desktop systems.
+- April  3rd, 2016: Added support for Pipplware.
 
 
 
